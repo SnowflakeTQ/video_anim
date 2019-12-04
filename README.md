@@ -1,4 +1,4 @@
-# Video2Frame-FFmpeg
+# video_anim
 
 ```shell
 git clone https://github.com/SnowflakeTQ/video_anim.git
